@@ -1,0 +1,5 @@
+globomart.productcatalogue.controller
+globomart.productcatalogue.exception
+globomart.productcatalogue.model
+globomart.productcatalogue.service
+globomart.productcatalogue.util
